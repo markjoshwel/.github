@@ -2,7 +2,7 @@
 
 ## Preamble
 
-This Code of Conduct governs this code repository only. This space is strictly for on-topic and focused discussion on technical work regarding the code repository. Let's be civil.
+This Code of Conduct only governs any associated code repositories, nowhere else. This space is strictly for on-topic and focused discussion on technical work regarding the code repository. Let's be civil.
 
 ## Standards
 
