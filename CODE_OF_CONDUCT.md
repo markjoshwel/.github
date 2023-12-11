@@ -22,4 +22,4 @@ Examples of what you should **not** do in the governed space(s):
 
 While these aren't rules, take this document rather in the spirit in which it's intended as - a guide to make it easier for contributors to efficiently discuss and contribute to the repository.
 
-Contact a contributor of the repository if you believe someone is violating the code of conduct, with _adequate_ evidence alongside your report.
+Contact a major contributor or maintainer of the repository if you believe someone is violating the code of conduct, with _adequate_ evidence alongside your report.
