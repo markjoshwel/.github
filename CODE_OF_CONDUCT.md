@@ -13,7 +13,7 @@ let's keep our conversations focused on the [technical aspects](#keep-things-tec
 
 ## prohibited behaviour
 
- - **off-topic discussions.** let's stay focused so we can make progress on the project.
+ - **off-topic discussions.** this space is for focused, on topic, [technical](#keep-things-technical) work only.
  - **harass, dox, bully, or exclude.** there is no tolerance for any unwarranted behaviour that makes others feel unsafe or unwelcome as a contributor.
  - **destructive behaviour** that harms this or another project.
  - **discuss the code of conduct or publicly accuse someone of violating it.** if you have a concern, discuss it [privately with a maintainer.](#reporting-violations)
