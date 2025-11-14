@@ -1,4 +1,4 @@
-Part of this Code of Conduct are derived from
+Part of this Code of Conduct is derived from
 [The Ruby Community Conduct Guideline](https://www.ruby-lang.org/en/conduct/).
 
 This Code of Conduct applies to wherever this document is associated with,
